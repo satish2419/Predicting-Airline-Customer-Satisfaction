@@ -22,10 +22,10 @@ pricison_score:  93.8%
 recall_score:  92.8%
 Accuracy_score: 94.4%
 
-Dependencies:
+**Dependencies:**
 The necessery python libraries are 
-Pandas
-Numpy
+Pandas,
+Numpy,
 Matplotlib.
-sciket learn was used to import and run the model, Pre proicessing and evaluation of model by using metrics. 
+Sciket learn was used to import and run the model, Pre proicessing and evaluation of model by using metrics. 
 
